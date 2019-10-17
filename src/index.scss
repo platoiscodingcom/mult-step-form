@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+$mainBlack: #222;
+$mainBlue: #4682B4;
+$mainRed: #F08080;
+$mainWhite: #F8F8FF;
+$mainGrey: #ececec;
+
+body{
+  background: $mainGrey;
+  color: $mainBlack;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.step-form{
+  margin-top: 5rem;
+}
+
+.btn{
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
